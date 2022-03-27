@@ -115,6 +115,6 @@
 - Veri toplama süreci güvenilir olmalıdır.
 - Veriyi oluşturanların "bias"ı varsa dikkate alınmalıdır.
 - Verinin dökümantasyonu yeterli olmalıdır.
-- 
+
 
 
